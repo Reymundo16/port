@@ -1,0 +1,16 @@
+
+
+.jumbotron text-center{
+    position: absolute;
+    margin-top: 50%;
+}
+
+
+.display-6{
+    margin-top: 60px;
+}
+
+.photo{
+    margin-top: 140px;
+    border-radius: 50%;
+}
